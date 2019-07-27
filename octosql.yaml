@@ -1,0 +1,10 @@
+dataSources:
+  - name: cats
+    type: csv
+    config:
+      path: "cats.csv"
+  - name: owners
+    type: csv
+    config:
+      path: "owners.csv"
+
